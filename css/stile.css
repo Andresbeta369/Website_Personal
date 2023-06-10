@@ -189,7 +189,7 @@ h1,h2,h3 {
 .servicio .iconos {
     height: 15rem;
     width: 15rem;
-    background-color: #00FF00;
+    background-color: var(--azul rey);
     border-radius: 50%;
     display: flex;
     justify-content: space-evenly;
