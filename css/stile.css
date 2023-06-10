@@ -28,7 +28,7 @@ html{
 body{
     font-size: 16px;
     font-family: 'Poltawski Nowy', serif;
-    background-image: linear-gradient(to top, var(--azulmar)30%, var(--azulmar)70%);
+    background-image: linear-gradient(to top, var(--azulmar)30%, var(--azulrey)70%);
     
 }
 .contenedor {
@@ -108,7 +108,7 @@ h1,h2,h3 {
 
 /* Navegacion Principal */
 .nav-bg {
-    background-color: var(--azulmar);
+    background-color: var(--azul);
 }
 .navegacion-principal {
     display: flex;
