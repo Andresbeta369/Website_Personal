@@ -105,7 +105,7 @@ h1,h2,h3 {
 
 /* Navegacion Principal */
 .nav-bg {
-    background-color: #F544D2;
+    background-color: var(--gris);
 }
 .navegacion-principal {
     display: flex;
