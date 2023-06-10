@@ -266,4 +266,8 @@ h1,h2,h3 {
     width: 100%;
     height: auto;
   }
+.logo{
+Display:flex;
+Flex-direction:colum;
+}
   
